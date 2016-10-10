@@ -1,0 +1,20 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Kingfisher (2.4.2)
+  - XWSwiftRefresh (0.1.9)
+
+DEPENDENCIES:
+  - FMDB
+  - Kingfisher (~> 2.0)
+  - XWSwiftRefresh
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Kingfisher: 05bf8d04408aaa70fcd2c8c81b9f1d0f1ad313dd
+  XWSwiftRefresh: 1981ad8f7579da94c94a8e7720803f2579dcde46
+
+PODFILE CHECKSUM: 86819659b3ca545262008b8fd057c1012bc51eda
+
+COCOAPODS: 1.0.1
